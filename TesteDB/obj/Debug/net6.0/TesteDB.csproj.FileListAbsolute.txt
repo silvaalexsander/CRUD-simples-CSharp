@@ -1,0 +1,17 @@
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\bin\Debug\net6.0\TesteDB.exe
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\bin\Debug\net6.0\TesteDB.deps.json
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\bin\Debug\net6.0\TesteDB.runtimeconfig.json
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\bin\Debug\net6.0\TesteDB.dll
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\bin\Debug\net6.0\TesteDB.pdb
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\obj\Debug\net6.0\TesteDB.csproj.AssemblyReference.cache
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\obj\Debug\net6.0\TesteDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\obj\Debug\net6.0\TesteDB.AssemblyInfoInputs.cache
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\obj\Debug\net6.0\TesteDB.AssemblyInfo.cs
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\obj\Debug\net6.0\TesteDB.csproj.CoreCompileInputs.cache
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\obj\Debug\net6.0\TesteDB.csproj.CopyComplete
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\obj\Debug\net6.0\TesteDB.dll
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\obj\Debug\net6.0\refint\TesteDB.dll
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\obj\Debug\net6.0\TesteDB.pdb
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\obj\Debug\net6.0\TesteDB.genruntimeconfig.cache
+C:\Users\Alexsander\Documents\Programacao\AprenddendoC-\TesteDB\TesteDB\obj\Debug\net6.0\ref\TesteDB.dll
